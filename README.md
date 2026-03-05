@@ -1,26 +1,25 @@
 # 🌐 Primozi
 
-![Primozi Banner](https://raw.githubusercontent.com/Primozi/Primozi/main/primozi_banner.png)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Primozi;Full-stack+Developer;AI+Privacy+Architect;Lead+Developer+@+KaagapAI" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛡️ About Me
+### bout Me
 
 I am a Full-stack Developer dedicated to building **privacy-first AI solutions**. My work focuses on bridging the gap between powerful LLM capabilities and user data sovereignty. 
 
-- 🚀 **Lead Developer**: [KaagapAI](https://github.com/Primozi/KaagapAI) — A premium digital emotional companion.
-- 🧠 **Focus**: Privacy-preserving AI architectures and seamless UX.
-- 🛠️ **Current Stack**: Crafting robust backends with **Laravel** and interactive frontends with **React**.
+- **Lead Developer**: [KaagapAI](https://kaagapai.onrender.com) — A  digital emotional companion.
+- **Lead Developer**: [HanapBuh.AI](https://hanapbuhai-4htt.onrender.com) — A  digital emotional companion.
+- **Focus**: Privacy-preserving AI architectures and seamless UX.
+- **Current Stack**: Crafting robust backends with **Laravel** and interactive frontends with **React**.
 
 ---
 
 ### 🚀 Tech Stack & Expertise
 
-<p align="left">
+<div align="center">
   <!-- Languages & Backend -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -35,8 +34,7 @@ I am a Full-stack Developer dedicated to building **privacy-first AI solutions**
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
+</div>
 ---
 
 ### 📊 GitHub Ecosystem
